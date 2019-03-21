@@ -4,7 +4,7 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
 
 # what Linux distros are included?
 
- * _%name% %version% %year% %kernel% %environment%_
+ * _%name% %version% %date% %kernel% %environment%_
  * __elementary 5.0__ 2018-Oct-16 4.15.0-36 GTK+
  * __elementary 3.2__ 2015-DEC-09 3.19.0-39 GTK+
  * __Mint 18__ 2016-Jun-30 4.4.0-21 Mate
