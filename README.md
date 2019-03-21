@@ -23,6 +23,10 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
  * __Ubuntu 12.04__ 2012-Apr-26 3.13.0-32 Gnome
  * __PCLinuxOS 2019__-Feb-24 4.20.12 KDE Plasma
  * __Deepin 15.8__ 2018-NOV-20 4.15.0-29 Deepin
+ 
+# what is linux_fonts_raw file?
+
+it is a raw (unedited) file with the outputs from _pc-list_ terminal command. call it a "debug file", if you wish
 
 ## elementary 5.0 2018-Oct-16 4.15.0-36 GTK+
 
