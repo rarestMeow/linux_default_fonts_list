@@ -6,7 +6,7 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
 
  * _%name% %version% %date% %kernel% %environment%_
  * __elementary 5.0__ 2018-Oct-16 4.15.0-36 GTK+
- * __elementary 3.2__ 2015-DEC-09 3.19.0-39 GTK+
+ * __elementary 3.2__ 2015-Dec-09 3.19.0-39 GTK+
  * __Mint 18__ 2016-Jun-30 4.4.0-21 Mate
  * __Mint 15__ 2013-May-29 3.8.0-19 Cinnamon
  * __Mint 7__ 2009-May-26 2.6.28-11 GNOME
@@ -22,7 +22,7 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
  * __Ubuntu 18.10__ 2018-Oct-18 4.18.0.10 GNOME
  * __Ubuntu 12.04__ 2012-Apr-26 3.13.0-32 Gnome
  * __PCLinuxOS 2019__-Feb-24 4.20.12 KDE Plasma
- * __Deepin 15.8__ 2018-NOV-20 4.15.0-29 Deepin
+ * __Deepin 15.8__ 2018-Nov-20 4.15.0-29 Deepin
  
 # what is linux_fonts_raw file?
 [linux_fonts_raw](/linux_fonts_raw) is a raw (unedited) file with the outputs from _pc-list_ terminal command. call it a "debug file", if you wish
@@ -241,7 +241,7 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
  * Uming AR PL UMing TW MBE
 
 
-## elementary 3.2 2015-DEC-09 3.19.0-39 GTK+
+## elementary 3.2 2015-Dec-09 3.19.0-39 GTK+
 
  * AbyssinicaSIL (Abyssinica SIL)
  * Arimo
@@ -1693,7 +1693,7 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
  * Wingding (Wingdings)
 
 
-## Deepin 15.8 2018-NOV-20 4.15.0-29 Deepin
+## Deepin 15.8 2018-Nov-20 4.15.0-29 Deepin
 
 
  * Bitstream Charter
