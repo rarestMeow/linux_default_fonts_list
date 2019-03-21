@@ -9,17 +9,17 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
  * __elementary 3.2__ 2015-Dec-09 3.19.0-39 GTK+
  * __Mint 18__ 2016-Jun-30 4.4.0-21 Mate
  * __Mint 15__ 2013-May-29 3.8.0-19 Cinnamon
- * __Mint 7__ 2009-May-26 2.6.28-11 GNOME
+ * __Mint 7__ 2009-May-26 2.6.28-11 Gnome
  * __Trisquel 8.0__ 2018-Apr-18 4.4.0.119 LXDE
  * __Debian 8.8__ 2017-May-6 3.16.0-4 KDE
  * __Debian 7.1.1__ 2013-Jun-15 3.2.0-4 KDE
  * __Debian 5.0.8__ 2011-Jan-22 2.6.26-2 LXDE
  * __Solus 3__ 2017-Aug-15 4.12.7-11 Budgie
  * __Gentoo 2017__-Jan-18 4.8.17-hardened-r2 XFCE
- * __Fedora 28__ 2018-May-01 4.16.3-301 GNOME
- * __Fedora 21__ 2014-Dec-09 3.17.4-301 GNOME
+ * __Fedora 28__ 2018-May-01 4.16.3-301 Gnome
+ * __Fedora 21__ 2014-Dec-09 3.17.4-301 Gnome
  * __Manjaro 18__ 2018-Oct-30 4.19.23-1 XFCE
- * __Ubuntu 18.10__ 2018-Oct-18 4.18.0.10 GNOME
+ * __Ubuntu 18.10__ 2018-Oct-18 4.18.0.10 Gnome
  * __Ubuntu 12.04__ 2012-Apr-26 3.13.0-32 Gnome
  * __PCLinuxOS 2019__-Feb-24 4.20.12 KDE Plasma
  * __Deepin 15.8__ 2018-Nov-20 4.15.0-29 Deepin
