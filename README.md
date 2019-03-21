@@ -25,8 +25,7 @@ the list of default fonts bundled in various Linux distros. an alias OS uses to 
  * __Deepin 15.8__ 2018-NOV-20 4.15.0-29 Deepin
  
 # what is linux_fonts_raw file?
-
-it is a raw (unedited) file with the outputs from _pc-list_ terminal command. call it a "debug file", if you wish
+[linux_fonts_raw](/linux_fonts_raw) is a raw (unedited) file with the outputs from _pc-list_ terminal command. call it a "debug file", if you wish
 
 ## elementary 5.0 2018-Oct-16 4.15.0-36 GTK+
 
